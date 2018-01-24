@@ -1,0 +1,92 @@
+<div id="page">
+
+<div id="main" class="aui-page-panel">
+
+<div id="main-header">
+
+<div id="breadcrumb-section">
+
+1.  <span>[aanchal doc
+changes](index.html)</span>
+
+</div>
+
+# ![Home Page](images/icons/contenttypes/home_page_16.png) <span id="title-text"> aanchal doc changes : Aanchal Doc changes </span>
+
+</div>
+
+<div id="content" class="view">
+
+<div class="page-metadata">
+
+Created by <span class="author"> Kevin Phillips</span>, last modified by
+<span class="editor"> Aanchal Gupta</span> on Aug 23,
+2017
+
+</div>
+
+<div id="main-content" class="wiki-content group">
+
+<div class="contentLayout2">
+
+<div class="columnLayout single" data-layout="single">
+
+<div class="cell normal" data-type="normal">
+
+<div class="innerCell">
+
+<div class="confluence-information-macro confluence-information-macro-tip">
+
+Welcome to your new documentation
+space\!
+
+<span class="aui-icon aui-icon-small aui-iconfont-approve confluence-information-macro-icon"></span>
+
+<div class="confluence-information-macro-body">
+
+This is the home page for your documentation space within Confluence.
+Documentation spaces are great for keeping technical documentation
+organised and up to date.
+
+</div>
+
+</div>
+
+<div class="panel" style="border-width: 1px;">
+
+<div class="panelHeader" style="border-bottom-width: 1px;">
+
+**Next you might want to:**
+
+</div>
+
+<div class="panelContent">
+
+**Customise the home page** - Click "Edit" to start editing your home
+page
+
+**Check out our sample pages** - Browse the sample pages in the sidebar
+for layout ideas
+
+**Create additional pages** - Click "Create" and choose "Blank Page" to
+get started
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
