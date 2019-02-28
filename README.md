@@ -2,7 +2,7 @@
 
 1. Click on History 
 
-2. Click on the file version. Usually a number like "
+2. Click on the file version. Usually a number like "2ed9da3"
 
 3. You will see the comment interface
 
