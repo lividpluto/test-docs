@@ -1,11 +1,11 @@
 ## How to review documents on Github
 
-Click on History 
+1. Click on History 
 
-Click on the file version. Usually a number like "
+2. Click on the file version. Usually a number like "
 
-You will see the comment interface
+3. You will see the comment interface
 
-Green represent what was added in this version
+4. Green represent what was added in this version
 
-Red represents what was removed from this version
+5. Red represents what was removed from this version
